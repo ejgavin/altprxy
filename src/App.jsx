@@ -14,10 +14,10 @@ const App = () => {
         src={url}
         title="SimpleBrowser"
         style={{
-          width: '98vw',
-          height: '98vh',
+          width: '100vw',
+          height: '100vh',
           border: 'none',
-          borderRadius: '12px',
+          borderRadius: '0px',
         }}
       ></iframe>
     </div>
